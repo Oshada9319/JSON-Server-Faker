@@ -1,12 +1,14 @@
 [
-  {
-    "id": 1,
-    "name": "Oshada",
-    "age": 25
-  },
-  {
-    "id": 2,
-    "name": "Malsha",
-    "age": 27
-  }
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Oshada",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Malsha",
+      "age": 27
+    }
+  ]
 ]
